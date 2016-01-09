@@ -1980,9 +1980,6 @@
 		left: 0;
 		width: 300px;
 		height: 100%;
-		color: #fff;
-		background: #161616 url("https://i.imgur.com/bAPAzEV.png");
-		box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.1);
 		text-align: right;
 	}
 
@@ -2119,7 +2116,7 @@
 /* Main */
 
 	#main {
-		margin-left: 300px;
+		margin-left: 0px;
 	}
 
 		#main > section {
