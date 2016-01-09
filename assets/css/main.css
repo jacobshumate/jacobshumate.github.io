@@ -1987,14 +1987,14 @@
 			position: absolute;
 			left: 0;
 			top: 0;
-			width: 100%;
+			width: 84%;
 		}
 
 		#header .bottom {
 			position: absolute;
 			left: 0;
 			bottom: 0;
-			width: 84%;
+			width: 100%;
 		}
 
 		#header .icons {
