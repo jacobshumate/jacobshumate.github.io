@@ -2424,10 +2424,10 @@
 					}
 
 			body.header-visible #headerToggle {
-				-moz-transform: translateX(275px);
-				-webkit-transform: translateX(275px);
-				-ms-transform: translateX(275px);
-				transform: translateX(275px);
+				-moz-transform: translateX(265px);
+				-webkit-transform: translateX(265px);
+				-ms-transform: translateX(265px);
+				transform: translateX(265px);
 			}
 
 			body.header-visible #header {
