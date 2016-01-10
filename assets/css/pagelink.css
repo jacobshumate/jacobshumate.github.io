@@ -1979,22 +1979,9 @@
 			}
 
 			#main > section.one {
-				background-color: #81918E;
+				background-color: #282828;
 				background-image: url("../../images/banner.jpg");
-
-
-
-
-
-
-
-
-
-
-
-
 			}
-
 /* Wide */
 
 	@media screen and (min-width: 961px) and (max-width: 1880px) {
