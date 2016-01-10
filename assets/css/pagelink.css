@@ -1966,7 +1966,7 @@
 /* Main */
 
  		#main {
-			margin-left: 0px;
+			margin-left: 200px;
 		}
 		
 		#main > section {
@@ -2114,13 +2114,13 @@
 		/* Footer */
 
 			#footer {
-				margin-left: 0%;
+				margin-left: 20%;
 			}
 
 		/* Main */
 
 			#main {
-				margin-left: 0%;
+				margin-left: 20%;
 			}
 
 	}
@@ -2259,6 +2259,13 @@
 						height: 2.25em;
 						line-height: 2.25em;
 					}
+					
+			body.header-visible #main {
+				-moz-transform: translateX(275px);
+				-webkit-transform: translateX(275px);
+				-ms-transform: translateX(275px);
+				transform: translateX(275px);
+			}
 
 			body.header-visible #headerToggle {
 				-moz-transform: translateX(245px);
