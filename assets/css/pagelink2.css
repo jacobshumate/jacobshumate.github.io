@@ -53,6 +53,16 @@
 
 /* Containers */
 	
+	.box {
+   display: inline-block;
+   width: 100px;
+   height: 70px;
+   text-align: left;
+   letter-spacing: normal;
+   font-size: medium;
+   margin-bottom: 10px;
+   }
+	
 	.box-holder {
    width: 200px;
    text-align: center;
