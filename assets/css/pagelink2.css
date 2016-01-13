@@ -55,7 +55,7 @@
 	
 	.box {
    display: inline-block;
-   width: 400px;
+   width: 600px;
    height: 70px;
    text-align: left;
    letter-spacing: normal;
@@ -64,7 +64,7 @@
    }
 	
 	.box-holder {
-   width: 800px;
+   width: 1200px;
    text-align: center;
    letter-spacing: 0px;
    font-size: 0pt;
