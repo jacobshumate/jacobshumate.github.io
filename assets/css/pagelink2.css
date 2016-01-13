@@ -64,11 +64,12 @@
    }
 	
 	.box-holder {
-   width: 1010px;
+   width: 1024px;
    text-align: center;
-   letter-spacing: 10px;
+   letter-spacing: 24px;
    font-size: 0pt;
    padding-top: 0px;
+   margin: 0 auto;
    }
 
 	.container {
