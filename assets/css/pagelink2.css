@@ -52,6 +52,14 @@
 	}
 
 /* Containers */
+	
+	.box-holder {
+   width: 200px;
+   text-align: center;
+   letter-spacing: 0px;
+   font-size: 0pt;
+   padding-top: 10px;
+   }
 
 	.container {
 		margin-left: auto;
