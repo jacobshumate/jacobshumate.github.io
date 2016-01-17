@@ -1573,7 +1573,7 @@
 		color: #888;
 	}
 
-	h1, h2, h3, h4, h5, h6 {
+	h1, h2, h3, h4, h5	{
 		font-weight: 300;
 		color: #666;
 		line-height: 1.5em;
@@ -1944,6 +1944,7 @@
 		#footer .copyright {
 			cursor: default;
 			margin: 0;
+			color: #222629;
 		}
 
 			#footer .copyright li {
