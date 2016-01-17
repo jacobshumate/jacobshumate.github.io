@@ -2377,7 +2377,8 @@
 			}
 
 			#nav ul li a {
-				padding: 0.5em 1.25em 0.5em 1.25em;
+				padding: 2px;
+				transform: translate(5px, 10px);
 			}
 
 			#headerToggle {
