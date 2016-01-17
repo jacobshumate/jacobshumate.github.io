@@ -1707,7 +1707,6 @@
 		.image.avatar48 {
 			width: 48px;
 			height: 48px;
-			background: #f00;
 		}
 
 			.image.avatar48 img {
@@ -2377,8 +2376,8 @@
 			}
 
 			#nav ul li a {
-				padding: 2px;
-				transform: translate(5px, 10px);
+				padding: 0px;
+				transform: translate(8px, 10px);
 			}
 
 			#headerToggle {
