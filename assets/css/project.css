@@ -1984,8 +1984,8 @@
 
 		#header .top {
 			position: absolute;
-			left: 0;
-			top: 0;
+			left: 10px;
+			top: 10px;
 			width: 100%;
 		}
 
@@ -2046,7 +2046,7 @@
 
 	#nav ul li a {
 		display: block;
-		padding: 1.0em;
+		padding: 0em;
 		color: rgba(255, 255, 255, 0.5);
 		text-decoration: none;
 		outline: 0;
