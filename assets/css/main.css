@@ -2074,6 +2074,7 @@
 			background: rgba(0, 150, 255, 0.5);
 			box-shadow: inset 0 0 0.25em 0 rgba(0, 0, 0, 0.125);
 			color: #fff;
+			border-radius: 0.35em;
 		}
 
 			#nav ul li a.active span:before {
