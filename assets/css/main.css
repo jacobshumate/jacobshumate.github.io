@@ -2118,6 +2118,7 @@
 
 	#main {
 		margin-left: 0px;
+		border-radius: 0 0 0 0;
 	}
 
 		#main > section {
