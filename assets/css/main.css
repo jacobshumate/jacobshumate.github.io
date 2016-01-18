@@ -1705,6 +1705,7 @@
 		.image img {
 			display: block;
 			width: 100%;
+			border-radius: 0.35em 0.35em 0 0;
 		}
 
 		.image.avatar48 {
