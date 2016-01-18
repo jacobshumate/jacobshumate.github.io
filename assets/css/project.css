@@ -1752,6 +1752,7 @@
 			margin: 0 0 2em 0;
 			margin-left: auto;
 			margin-right: auto;
+			border-radius: 0.35em;
 		}
 		
 		.image.pacFeatured {
@@ -1760,6 +1761,7 @@
 			margin: 0 0 1em 0;
 			margin-left: auto;
 			margin-right: auto;
+			border-radius: 0.35em;
 		}
 		
 		.image.textAnalyticsFeatured {
@@ -1768,6 +1770,7 @@
 			margin: 0 0 1em 0;
 			margin-left: auto;
 			margin-right: auto;
+			border-radius: 0.35em;
 		}
 		
 		.image.cdCMFeatured {
@@ -1776,6 +1779,7 @@
 			margin: 0 0 1em 0;
 			margin-left: auto;
 			margin-right: auto;
+			border-radius: 0.35em;
 		}
 		
 		.image.miniShellFeatured {
@@ -1784,6 +1788,7 @@
 			margin: 0 0 1em 0;
 			margin-left: auto;
 			margin-right: auto;
+			border-radius: 0.35em;
 		}
 
 		.image.left {
