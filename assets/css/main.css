@@ -2118,7 +2118,6 @@
 
 	#main {
 		margin-left: 0px;
-		border-radius: 0 0 0 0;
 	}
 
 		#main > section {
@@ -2160,7 +2159,7 @@
 			}
 
 			#main > section.one {
-				background-color: #81918E;
+				background-color: #222629;
 				background-image: url(https://i.imgur.com/f8BG23n.jpg);
 			}
 
@@ -2174,6 +2173,10 @@
 
 			#main > section.four {
 				background-color: #222629;
+			}
+			
+			#main > section.cover, #main > section.one, #main > section.two, #main > section.three, #main > section.four {
+				border-radius: 0;
 			}
 
 /* Wide */
