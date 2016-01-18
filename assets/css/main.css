@@ -1979,7 +1979,7 @@
 		position: fixed;
 		top: 0;
 		left: 0;
-		width: 300px;
+		width: 245px;
 		height: 100%;
 		text-align: left;
 	}
@@ -2119,7 +2119,7 @@
 /* Main */
 
 	#main {
-		margin-left: 0px;
+		margin-left: 245px;
 	}
 
 		#main > section {
