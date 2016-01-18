@@ -1792,6 +1792,7 @@
 	form input[type="text"],
 	form input[type="email"],
 	form input[type="password"],
+	form input[type="subject"],
 	form select,
 	form textarea {
 		position: relative;
@@ -1824,6 +1825,7 @@
 	form input[type="text"],
 	form input[type="email"],
 	form input[type="password"],
+	form input[type="subject"],
 	form select {
 		line-height: 1.25em;
 	}
