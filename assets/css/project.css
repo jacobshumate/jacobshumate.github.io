@@ -1750,6 +1750,14 @@
 			margin-left: auto;
 			margin-right: auto;
 		}
+		
+		.image.miniShellFeatured {
+			display: block;
+			width: 70%;
+			margin: 0 0 1em 0;
+			margin-left: auto;
+			margin-right: auto;
+		}
 
 		.image.left {
 			float: left;
