@@ -1730,6 +1730,12 @@
 			width: 100%;
 			margin: 0 0 2em 0;
 		}
+		
+		.image.profile {
+			display: block;
+			width: 50%;
+			height: 50%;
+		}
 
 		.image.left {
 			float: left;
