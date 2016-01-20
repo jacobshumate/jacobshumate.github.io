@@ -1706,7 +1706,6 @@
 		.image img {
 			display: block;
 			width: 100%;
-			border-radius: 0.35em 0.35em 0 0;
 		}
 
 		.image.avatar48 {
@@ -1723,6 +1722,7 @@
 		.image.fit {
 			display: block;
 			width: 100%;
+			border-radius: 0.35em 0.35em 0 0;
 		}
 
 		.image.featured {
@@ -1737,6 +1737,7 @@
 			padding-bottom: 2em;
 			margin-left: auto;
 			margin-right: auto;
+			border-radius: 0.35em;
 		}
 
 		.image.left {
