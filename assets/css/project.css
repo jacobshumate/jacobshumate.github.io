@@ -2068,6 +2068,7 @@
 
 					#main > section.dark a:hover {
 						border-bottom-color: rgba(255, 255, 255, 0);
+						color: #0096FF;
 					}
 
 			#main > section.cover {
