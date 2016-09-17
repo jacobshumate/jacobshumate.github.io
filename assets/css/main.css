@@ -2106,7 +2106,7 @@
 
 		#footer .copyright {
 			cursor: default;
-			margin: 0;
+			margin: -1px;
 			color: #C8C8C8;
 		}
 
